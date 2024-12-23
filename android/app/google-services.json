@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "513789627158",
+    "firebase_url": "https://studyfocus-ec34a-default-rtdb.firebaseio.com",
+    "project_id": "studyfocus-ec34a",
+    "storage_bucket": "studyfocus-ec34a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513789627158:android:f4e56c03ffc64c47fa5e37",
+        "android_client_info": {
+          "package_name": "com.example.study"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513789627158-b092lrqp6r9id7pbe4cghosbbtoqgfn5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDidmEtNykOo_0evdVpK7GgJgYm5gm6Ql8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513789627158-b092lrqp6r9id7pbe4cghosbbtoqgfn5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
